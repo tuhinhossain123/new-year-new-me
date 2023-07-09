@@ -141,3 +141,105 @@ body {
     padding-top: 15px;
     text-align: center;
 }
+
+.linear-section {
+    background-image: url('/images/gradient1.png'), url('../images/watch.png');
+    background-repeat: no-repeat;
+    height: 300px;
+    margin-left: 230px;
+    margin-top: 135px;
+    padding-top: 60px;
+    padding-left: 64px;
+
+}
+
+.my-plan-title {
+    color: #FFF;
+    font-size: 40px;
+    font-weight: 700;
+}
+
+.call-btn {
+    width: 160px;
+    height: 64px;
+    border: none;
+    border-radius: 5px;
+    color: #005FAC;
+    font-size: 20px;
+    font-weight: 600;
+    margin-top: 24px;
+}
+
+.footer-section {
+    display: flex;
+    background-color: black;
+    height: 550px;
+}
+
+.footer-info {
+    padding-top: 130px;
+    padding-left: 230px;
+}
+
+.footer-future {
+    color: #F8F8F8;
+    font-size: 45px;
+    font-weight: 700;
+}
+
+.footer-description {
+    color: #FFF;
+    font-size: 16px;
+    font-weight: 400;
+    padding-top: 16px;
+}
+
+.emil-info {
+    color: #FFF;
+    font-size: 16px;
+    font-weight: 400;
+    padding-top: 24px;
+}
+
+.icon {
+    padding-top: 32px;
+    
+}
+
+.subscrib {
+    color: #FFF;
+    font-size: 25px;
+    font-weight: 600;
+}
+
+.subscribe-area {
+    padding-top: 130px;
+    padding-left: 330px;
+    padding-right: 230px;
+
+}
+
+#email {
+    color: white;
+    background-color: #151414;
+    border: 1px solid white;
+    border-radius: 8px;
+    padding: 21px ;
+    font-size: 18px;
+    font-weight: 400;
+    margin-top: 31px;
+
+
+}
+
+.subscrive-btn {
+
+    width: 170.106px;
+    height: 64px;
+    border-radius: 8px;
+    background: #005FAC;
+    color: #FFF;
+    font-size: 20px;
+    font-weight: 600;
+    margin-top: 18px;
+}
