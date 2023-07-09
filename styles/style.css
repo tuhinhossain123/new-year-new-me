@@ -1,0 +1,105 @@
+* {
+    margin: 0;
+    padding: 0;
+
+}
+
+body {
+    /* font-family: 'Open Sans', sans-serif; */
+
+}
+
+.header {
+    background-image: url('/images/banner/banner3.png');
+    height: 100vh;
+    background-size: cover;
+
+
+}
+
+.header-contant {
+    text-align: right;
+    padding-top: 216px;
+    padding-right: 150px;
+
+}
+
+.header-title {
+    color: #FFF;
+    font-size: 65px;
+    font-weight: 700;
+
+}
+
+.header-description {
+    color: #FFF;
+    font-size: 16px;
+    font-weight: 400;
+    padding-top: 24px;
+}
+
+.btn-primary {
+    /* width: 160px;
+    height: 64px; */
+    padding: 10px 20px;
+    border-radius: 5px;
+    border: none;
+    color: #005FAC;
+    font-size: 20px;
+    font-weight: 600;
+    margin-top: 32px;
+
+}
+
+.container {
+    display: flex;
+    height: 100px;
+    
+
+
+}
+
+.women-img {
+    align-items: center;
+    padding-top: 131px;
+    padding-left: 206px;
+    align-items: center;
+}
+
+.section-contant {
+    padding: 370px 322px 21px 105px;
+    align-items: center;
+    
+}
+
+.section-title {
+    color: #151414;
+    font-size: 50px;
+    font-weight: 700;
+
+}
+
+.section-description {
+    color: #444343;
+    font-size: 20px;
+    font-weight: 400;
+    padding-top: 24px;
+}
+
+.list-item {
+    color: #444343;
+    font-family: Work Sans;
+    font-size: 16px;
+    font-weight: 400;
+    padding-top: 16px;
+    
+
+}
+
+.fa-solid {
+    color: #16D887;
+    padding: 7px;
+}
+.my-plans{
+    
+}
