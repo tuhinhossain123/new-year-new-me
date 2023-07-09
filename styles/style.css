@@ -53,8 +53,7 @@ body {
 
 .container {
     display: flex;
-    height: 100px;
-    
+
 
 
 }
@@ -69,7 +68,7 @@ body {
 .section-contant {
     padding: 370px 322px 21px 105px;
     align-items: center;
-    
+
 }
 
 .section-title {
@@ -92,7 +91,7 @@ body {
     font-size: 16px;
     font-weight: 400;
     padding-top: 16px;
-    
+
 
 }
 
@@ -100,6 +99,45 @@ body {
     color: #16D887;
     padding: 7px;
 }
-.my-plans{
-    
+
+
+.my-plans {
+    color: #151414;
+    text-align: center;
+    font-size: 40px;
+    font-weight: 700;
+    padding-top: 200px;
+}
+
+.skill-container {
+    display: flex;
+    justify-content: center;
+    padding-top: 60px;
+}
+
+.skill-img {
+    width: 92px;
+    height: 92px;
+    margin-left: 60px;
+}
+
+.skill {
+    margin-left: 99px;
+}
+
+
+.skill-titel {
+    color: #151414;
+    font-size: 30px;
+    font-weight: 700;
+    padding-top: 24px;
+
+}
+
+.skill-description {
+    color: #737272;
+    font-size: 25px;
+    font-weight: 500;
+    padding-top: 15px;
+    text-align: center;
 }
